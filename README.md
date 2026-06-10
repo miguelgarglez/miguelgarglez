@@ -1,13 +1,25 @@
-# Hi, I'm Miguel Garcia 👋
+# Hi, I'm Miguel Garcia
 
-Software Engineer based in Madrid, focused on building products and learning through the process.
+Software Engineer based in Madrid. I like building useful products, learning in public through small projects, and turning vague ideas into something people can actually try.
 
-- Frontend UI Platform Engineer at Open Digital Services (Santander Group), building shared UI components at scale.
-- Product-minded builder: I have a 'get things done' mentality, having user experience at the top of my mind, without never forgetting software engineering as the backbone to provide those solutions.
-- UI craft + frontend depth: React, TypeScript, design systems, accessibility, performance, and motion.
-- AI savvy, user of Codex, Windsurf and GitHub Copilot among others. With updated knowledge about context engineering and good practices to make the most out of these AI Coding Agents when integrating them in my development workflow, to help me focus on the really important decisions when making software.
+Right now I work at Open Digital Services, Santander Group, on a banking onboarding product for small and medium-sized business customers across multiple Santander markets. Before that, I worked on Kubit, Santander's React/TypeScript UI component platform.
+
+Lately I have been spending a lot of time around:
+
+- product engineering and frontend craft
+- AI-assisted development, agents, context engineering, and better developer workflows
+- personal software as a way to think, learn, and share
+- writing things down so projects stay understandable after the initial excitement
+- getting things done without losing sight of user experience or software quality
+
+Some things I am building:
+
+- [cv-chat](https://miguelgarglez.com/cv-chat), a digital CV with a small AI assistant grounded in my own profile data.
+- [WellStudio Platform](https://github.com/miguelgarglez/wellstudio-platform), a product platform experiment for a boutique wellness studio.
+- [miguelgarglez.com](https://miguelgarglez.com), my personal directory for projects, people, readings, posts, and ideas.
 
 Links:
-- Portfolio: [miguelgarglez.github.io](https://miguelgarglez.github.io)
+
+- Site: [miguelgarglez.com](https://miguelgarglez.com)
 - LinkedIn: [linkedin.com/in/miguel-garciag](https://www.linkedin.com/in/miguel-garciag)
 - X: [x.com/miguel_garglez](https://x.com/miguel_garglez)
